@@ -6,11 +6,11 @@
 
 (2) „Verbraucher“ in Sinne dieser Geschäftsbedingungen ist jede natürliche Person, die ein Rechtsgeschäft zu einem Zwecke abschließt, der weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann.
 
+(3) Die folgenden Regelungen gelten für Bestellungen über unsere Internet Seite http(s)://www.aventer.biz, http(s)://www.der-online-shop.de oder bei der Annahme eines von AVENTER ausgestellten Angebotes.
+
 ## §2 Zustandekommen eines Vertrages, Speicherung des Vertragstextes
 
-(1) Die folgenden Regelungen über den Vertragsabschluss gelten für Bestellungen über unsere Internet Seite http(s)://www.aventer.biz, http(s)://www.der-online-shop.de oder bei der Annahme eines von AVENTER ausgestellten Angebotes.
-
-(2) Im Falle des Vertragsschlusses kommt der Vertrag mit
+(1) Im Falle des Vertragsschlusses kommt der Vertrag mit
 
 AVENTER UG (haftungsbeschränkt)
 Andreas Peters
@@ -19,9 +19,9 @@ D-25337 Kölln-Reisiek
 
 zustande.
 
-(3) Die Präsentation der Waren in unserem Internetshop stellen kein rechtlich bindendes Vertragsangebot unsererseits dar, sondern sind nur eine unverbindliche Aufforderungen an den Verbraucher, Waren zu bestellen. Mit der Bestellung der gewünschten Ware gibt der Verbraucher ein für ihn verbindliches Angebot auf Abschluss eines Kaufvertrages ab.
+(2) Die Präsentation der Waren in unserem Internetshop stellen kein rechtlich bindendes Vertragsangebot unsererseits dar, sondern sind nur eine unverbindliche Aufforderungen an den Verbraucher, Waren zu bestellen. Mit der Bestellung der gewünschten Ware gibt der Verbraucher ein für ihn verbindliches Angebot auf Abschluss eines Kaufvertrages ab.
 
-(4) Bei Eingang einer Bestellung in unserem Internetshop, gelten folgende Regelungen: Der Verbraucher gibt ein bindendes Vertragsangebot ab, indem er die in unserem Internetshop vorgesehene Bestellprozedur erfolgreich durchläuft.
+(3) Bei Eingang einer Bestellung in unserem Internetshop, gelten folgende Regelungen: Der Verbraucher gibt ein bindendes Vertragsangebot ab, indem er die in unserem Internetshop vorgesehene Bestellprozedur erfolgreich durchläuft.
 
 Die Bestellung erfolgt in folgenden Schritten:
  
@@ -33,13 +33,13 @@ Die Bestellung erfolgt in folgenden Schritten:
 
 Der Verbraucher kann vor dem verbindlichen Absenden der Bestellung durch Betätigen der in dem von ihm verwendeten Internet-Browser enthaltenen „Zurück“-Taste nach Kontrolle seiner Angaben wieder zu der Internetseite gelangen, auf der die Angaben des Kunden erfasst werden und Eingabefehler berichtigen bzw. durch Schließen des Internetbrowsers den Bestellvorgang abbrechen. Wir bestätigen den Eingang der Bestellung unmittelbar durch eine automatisch generierte E-Mail („Auftragsbestätigung“). Mit dieser nehmen wir Ihr Angebot an. 
 
-(5) Speicherung des Vertragstextes bei Bestellungen über unsere Internet Seite : Die AGB können Sie jederzeit unter http://www.aventer.biz/ einsehen.
+(4) Speicherung des Vertragstextes bei Bestellungen über unsere Internet Seite: Die AGB können Sie jederzeit unter http://www.aventer.biz/ einsehen.
 
 ## §3 Preise, Versandkosten, Zahlung, Fälligkeit
 
 (1) Die angegebenen Preise enthalten die gesetzliche Umsatzsteuer und sonstige Preisbestandteile.
 
-(2) Der Verbraucher hat die Möglichkeit der Zahlung per PayPal oder Kreditkarte( Visa, Mastercard ) über den PayPal Dienst.
+(2) Der Verbraucher hat die Möglichkeit der Zahlung per PayPal, Bitcoin oder Kreditkarte(Visa, Mastercard) über den PayPal Dienst.
 
 ## §4 Widerrufsrecht
 
@@ -113,7 +113,6 @@ Für Schäden haftet AVENTER nur dann, wenn sie eine wesentliche Vertragspflicht
 Das gleiche gilt auch für Erfüllungsgehilfen oder gesetzliche Vertreter von AVENTER.
 
 Ansprüche des Kunden auf Schadensersatz verjähren spätestens in einem Jahr ab dem gesetzlichen Verjährungsbeginn. Dies gilt nicht für Schadensersatzansprüche, die aus einer vorsätzlichen Handlung, grob fahrlässigem Verhalten (bei Verletzung von Leben, Körper oder der Gesundheit auch Fahrlässigkeit) oder arglistiger Täuschung gegenüber AVENTER begründet werden.
-
  
 ## §9 Wartungszeiten 
 

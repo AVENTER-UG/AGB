@@ -6,11 +6,13 @@ Gegenstand des Datenschutzes sind personenbezogene Daten. Diese sind nach § 3 A
 
 ## Umfang der Datenerhebung und -speicherung
 
-Im Allgemeinen ist es für die Nutzung unserer Internetseite nicht erforderlich, dass Sie personenbezogene Daten angeben. Damit wir unsere Dienstleistungen aber tatsächlich erbringen können, benötigen wir ggf. Ihre personenbezogenen Daten. Dies gilt z.B bei der Zusendung von bestellter Waren.
+Im Allgemeinen ist es für die Nutzung unserer Internetseite nicht erforderlich, dass Sie personenbezogene Daten angeben. Damit wir unsere Dienstleistungen aber tatsächlich erbringen können, benötigen wir ggf. Ihre personenbezogenen Daten. Dies gilt z.B bei der Zusendung von bestellter Ware.
 
 Wenn Sie uns mit der Erbringung einer Dienstleistung oder der Zusendung von Ware beauftragen, erheben und speichern wir Ihre persönlichen Daten grundsätzlich nur, soweit es für die Erbringung der Dienstleistung oder die Durchführung des Vertrages notwendig ist. Falls wir eine der nachfolgend beschriebenen oder sonstigen Handlungen vornehmen oder Leistungen erbringen, möchten wir Ihre personenbezogenen Daten erheben und speichern und werden Sie an der entsprechenden Stelle unserer Internetseite um Ihre ausdrückliche Einwilligung ersuchen: 
 
 - WebSpace
+- nextCloud
+- WebMail
 - Consulting Taetigkeiten
 
 Bei dem Produkt "WebSpace", erfolgt die Bestellung der Domain über die dritt Firma "InterNetworx" (www.inwx.de). Für die Bestellung der Domain tritt der Kunde als Registrand auf. Hierfür müssen der Firma InterNetworx folgende Kunden Daten übermittelt werden:
@@ -22,11 +24,15 @@ Bei dem Produkt "WebSpace", erfolgt die Bestellung der Domain über die dritt Fi
 - Telefonnummer
 - EMail Adresse
 
-Bei allen oben nicht aufgefuehrten Services erheben wir keine Daten. 
+Bei allen oben nicht aufgefuehrten Services erheben wir keine Daten. Dazu zählt:
+
+- Matrix/Riot Chat und Bot Services (https://chat.aventer.biz)
+- Wekan (https://wekan.aventer.biz)
+- Mastodon (https://mastodon.aventer.biz)
 
 ## Daten-Erhebung durch Nutzung von Piwik
 
-Unsere Webseite www.aventer.biz, blog.aventer.biz, wie auch www.der-online-shop.de benutzt Piwik, einer OpenSource Webanalysesoftware, diese verwendet dafür sogenannte „Cookies“. Dabei handelt es sich um Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse ihrer Benutzung der Website ermöglicht. Erfasst werden beispielsweise Informationen zum Betriebssystem, zum Browser, die von Ihnen zuvor aufgerufene Webseite (Referrer-URL) und Datum und Uhrzeit Ihres Besuchs auf unserer Webseite. Die IP Adresse Ihres Internet Zugangs wird dabei anonymisiert (die letzten Zahlen der Adresse wird entfernt) abgespeichert. Die durch diese Textdatei erzeugten Informationen über die Benutzung unserer Webseite werden auf einen unserer Server in Deutschland abgespeichert. Die ermittelten Informationen werden weder an dritte weitergegeben noch werden sie verwendet um Werbung innerhalb unseres Dienste zielgerichtet anzubieten. Sie dienen lediglich zum ermitteln der Besucher der angegebenen Website. Die Erfassung der Nutzerdaten können Sie hier deaktivieren.
+Unsere Webseite https://www.aventer.biz, https://blog.aventer.biz, wie auch https://www.der-online-shop.de benutzt Piwik, einer OpenSource Webanalysesoftware, diese verwendet dafür sogenannte „Cookies“. Dabei handelt es sich um Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse ihrer Benutzung der Website ermöglicht. Erfasst werden beispielsweise Informationen zum Betriebssystem, zum Browser, die von Ihnen zuvor aufgerufene Webseite (Referrer-URL) und Datum und Uhrzeit Ihres Besuchs auf unserer Webseite. Die IP Adresse Ihres Internet Zugangs wird dabei anonymisiert (die letzten Zahlen der Adresse wird entfernt) abgespeichert. Die durch diese Textdatei erzeugten Informationen über die Benutzung unserer Webseite werden auf einen unserer Server in Deutschland abgespeichert. Die ermittelten Informationen werden weder an dritte weitergegeben noch werden sie verwendet um Werbung innerhalb unseres Dienste zielgerichtet anzubieten. Sie dienen lediglich zum ermitteln der Besucher der angegebenen Website. Die Erfassung der Nutzerdaten können Sie hier deaktivieren.
 
 ## Zweckgebundene Datenverwendung
 
