@@ -12,9 +12,14 @@ Wenn Sie uns mit der Erbringung einer Dienstleistung oder der Zusendung von Ware
 - WebSpace
 - nextCloud
 - WebMail
+- Matrix Chat und Bot Services
+- Riot WebChat
+- Wekan (https://wekan.aventer.biz)
+- Mastodon (https://mastodon.aventer.biz)
+- www.der-online-shop.de
 - Consulting Taetigkeiten
 
-Bei den Produkten nextCloud und WebMail, speichern wir Ihre EMail Adresse, den Vor- und Nachnamen fuer die Zusendung der Rechnung. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen.
+Bei den Produkten nextCloud, www.der-online-shop.de, und WebMail, speichern wir Ihre EMail Adresse, den Vor- und Nachnamen fuer die Zusendung der Rechnung. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen.
 
 Bei dem Produkt "WebSpace", erfolgt die Bestellung der Domain über die dritt Firma "InterNetworx" (www.inwx.de). Für die Bestellung der Domain tritt der Kunde als Registrand auf. Hierfür müssen der Firma InterNetworx folgende Kunden Daten übermittelt werden:
 
@@ -25,25 +30,25 @@ Bei dem Produkt "WebSpace", erfolgt die Bestellung der Domain über die dritt Fi
 - Telefonnummer
 - EMail Adresse
 
-Bei Consulting Taetigkeiten, speichern wir folgende Daten:
+Bei Consulting Taetigkeiten und www.der-online-shop.de speichern wir folgende Daten:
 
-- Name der Firma
+- Name der Firma (falls vorhanden)
 - Vor- Nachname der Kontaktperson
 - Firmenanschrift
 - Telefonnummer
 - EMail Adresse
 
-Bei allen oben nicht aufgefuehrten Services erheben wir keine Daten. Dazu zählt:
+Bei dem Services "Matrix Chat und Bot Services" sowie "Riot WebChat" ist die Nutzung des Services nicht von der Eingabe der folgenden Daten abhängig:
 
-- Matrix/Riot Chat und Bot Services (https://chat.aventer.biz)
-- Wekan (https://wekan.aventer.biz)
-- Mastodon (https://mastodon.aventer.biz)
+- EMail Adresse
+- Telefonnummer
 
-Bei allen von AVENTER angebotenen Services, erheben wir keine Zugriffszeit oder IP Adresse.
+Dem Nutzer bleibt es frei diese einzugeben.
 
-## Daten-Erhebung durch Nutzung von Piwik
+## Nutzungdaten-Erhebung
 
-Unsere Webseite https://www.aventer.biz, https://blog.aventer.biz, wie auch https://www.der-online-shop.de benutzt Piwik, einer OpenSource Webanalysesoftware, diese verwendet dafür sogenannte „Cookies“. Dabei handelt es sich um Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse ihrer Benutzung der Website ermöglicht. Erfasst werden beispielsweise Informationen zum Betriebssystem, zum Browser, die von Ihnen zuvor aufgerufene Webseite (Referrer-URL) und Datum und Uhrzeit Ihres Besuchs auf unserer Webseite. Die IP Adresse Ihres Internet Zugangs wird dabei anonymisiert (jede IP Adresse schreiben wir auf 127.0.0.1 um) abgespeichert. Die durch diese Textdatei erzeugten Informationen über die Benutzung unserer Webseite werden auf einen unserer Server in Deutschland abgespeichert. Die ermittelten Informationen werden weder an dritte weitergegeben noch werden sie verwendet um Werbung innerhalb unseres Dienste zielgerichtet anzubieten. Sie dienen lediglich zum ermitteln der Besucher der angegebenen Website. Die Erfassung der Nutzerdaten können Sie hier deaktivieren.
+Grundsätzlich erhebt AVENTER keine Nutzungs- oder Verkehrsdaten in seinen angebotenen Diensleistungen. Davon Ausgenommen ist "Riot WebChat". Hier ermittelt der externe Dienstleister "riot.im" Nutzungsdaten. Details zu den vom Dienstleister erhobenen Daten sind zu finden unter: https://riot.im/privacy
+Die von "riot.im" erhobenen Daten sind AVENTER nicht einsehbar und gelangen auch nicht über die Server von AVENTER. Da es sich bei dem Service um einen WebApplikation handelt, findet die entsprechende Datenverbindung zwischen dem Nutzer und "riot.im" statt. Dem Nutzer steht aber frei, das Versenden der Nutzungsdaten unter den Einstellungen der Applikation zu deaktivieren.
 
 ## Zweckgebundene Datenverwendung
 
@@ -52,3 +57,5 @@ Wir beachten den Grundsatz der zweckgebundenen Daten-Verwendung und erheben, ver
 ## Auskunft- und Widerrufsrecht
 
 Sie erhalten jederzeit ohne Angabe von Gründen kostenfrei Auskunft über Ihre bei uns gespeicherten Daten. Sie können jederzeit Ihre bei uns erhobenen Daten sperren oder berichtigen lassen. Auch können Sie jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenden Sie sich hierzu bitte an die im Impressum angegebene Kontaktadresse. Wir stehen Ihnen jederzeit gern für weitergehende Fragen zu unserem Hinweisen zum Datenschutz und zur Verarbeitung Ihrer persönlichen Daten zur Verfügung.
+
+Stand der Bestimmung, April 2018
