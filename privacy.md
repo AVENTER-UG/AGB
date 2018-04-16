@@ -2,16 +2,14 @@
 
 ## Gegenstand des Datenschutzes
 
-Gegenstand des Datenschutzes sind personenbezogene Daten. Diese sind nach § 3 Abs. 1 BDSG Einzelangaben über persönlich oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person. Hierunter fallen z. B. Angaben wie Name, Post-Adresse, E-Mail-Adresse oder Telefonnummer, ggf. aber auch Nutzungsdaten wie Ihre IP-Adresse.
+Gegenstand des Datenschutzes sind personenbezogene Daten. Diese sind nach § 3 Abs. 1 BDSG Einzelangaben über persönlich oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person. Hierunter fallen z. B. Angaben wie Name, Post-Adresse, E-Mail-Adresse oder Telefonnummer, aber auch Nutzungsdaten wie Ihre IP-Adresse.
 
 ## Umfang der Datenerhebung und -speicherung
 
-Im Allgemeinen ist es für die Nutzung unserer Internetseite nicht erforderlich, dass Sie personenbezogene Daten angeben.
-Wenn Sie uns mit der Erbringung einer Dienstleistung oder der Zusendung von Ware beauftragen, erheben und speichern wir Ihre persönlichen Daten grundsätzlich nur, soweit es für die Erbringung der Dienstleistung oder die Durchführung des Vertrages notwendig ist. Falls wir eine der nachfolgend beschriebenen oder sonstigen Handlungen vornehmen oder Leistungen erbringen, möchten wir Ihre personenbezogenen Daten erheben und speichern und werden Sie an der entsprechenden Stelle unserer Internetseite um Ihre ausdrückliche Einwilligung ersuchen: 
+Im Allgemeinen ist es für die Nutzung unserer Internetseite nicht erforderlich, dass Sie personenbezogene Daten angeben. Wenn Sie uns mit der Erbringung einer Dienstleistung oder der Zusendung von Ware beauftragen, erheben und speichern wir Ihre persönlichen Daten grundsätzlich nur, soweit es für die Erbringung der Dienstleistung oder die Durchführung des Vertrages notwendig ist. Falls wir eine der nachfolgend beschriebenen oder sonstigen Handlungen vornehmen oder Leistungen erbringen, möchten wir Ihre personenbezogenen Daten erheben und speichern und werden Sie an der entsprechenden Stelle unserer Internetseite um Ihre ausdrückliche Einwilligung ersuchen:
 
 - WebSpace
 - nextCloud
-- WebMail
 - Matrix Chat und Bot Services
 - Riot WebChat
 - Wekan (https://wekan.aventer.biz)
@@ -19,7 +17,7 @@ Wenn Sie uns mit der Erbringung einer Dienstleistung oder der Zusendung von Ware
 - www.der-online-shop.de
 - Consulting Taetigkeiten
 
-Bei den Produkten nextCloud, www.der-online-shop.de, und WebMail, speichern wir Ihre EMail Adresse, den Vor- und Nachnamen fuer die Zusendung der Rechnung. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen.
+Bei den Produkten nextCloud und www.der-online-shop.de, speichern wir Ihre EMail Adresse, den Vor- und Nachnamen fuer die Zusendung der Rechnung. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen.
 
 Bei dem Produkt "WebSpace", erfolgt die Bestellung der Domain über die dritt Firma "InterNetworx" (www.inwx.de). Für die Bestellung der Domain tritt der Kunde als Registrand auf. Hierfür müssen der Firma InterNetworx folgende Kunden Daten übermittelt werden:
 
@@ -32,10 +30,11 @@ Bei dem Produkt "WebSpace", erfolgt die Bestellung der Domain über die dritt Fi
 
 Bei Consulting Taetigkeiten und www.der-online-shop.de speichern wir folgende Daten:
 
-- Name der Firma (falls vorhanden)
+- Name der Firma (falls Gewerblicher Nutzer)
 - Vor- Nachname der Kontaktperson
-- Firmenanschrift
-- Telefonnummer
+- Firmenanschrift (falls Gewerblicher Nutzer)
+- Anschrift
+- Telefonnummer (optionale Angabe des Nutzers)
 - EMail Adresse
 
 Bei dem Services "Matrix Chat und Bot Services" sowie "Riot WebChat" ist die Nutzung des Services nicht von der Eingabe der folgenden Daten abhängig:
@@ -45,10 +44,11 @@ Bei dem Services "Matrix Chat und Bot Services" sowie "Riot WebChat" ist die Nut
 
 Dem Nutzer bleibt es frei diese einzugeben.
 
-## Nutzungdaten-Erhebung
+Die im "nextCloud" Service vom Nutzer hochgeladenen Daten, werden mit einem vom Kunden ausgewaehlten Passwort und einem von AVENTER erstellen Salt verschluesselt auf einem Storage System abelegt. Keinem Mitarbeiter von AVENTER ist es moeglich diese Daten einzusehen.
 
-Grundsätzlich erhebt AVENTER keine Nutzungs- oder Verkehrsdaten in seinen angebotenen Diensleistungen. Davon Ausgenommen ist "Riot WebChat". Hier ermittelt der externe Dienstleister "riot.im" Nutzungsdaten. Details zu den vom Dienstleister erhobenen Daten sind zu finden unter: https://riot.im/privacy
-Die von "riot.im" erhobenen Daten sind AVENTER nicht einsehbar und gelangen auch nicht über die Server von AVENTER. Da es sich bei dem Service um einen WebApplikation handelt, findet die entsprechende Datenverbindung zwischen dem Nutzer und "riot.im" statt. Dem Nutzer steht aber frei, das Versenden der Nutzungsdaten unter den Einstellungen der Applikation zu deaktivieren.
+## Verkehrsdaten-Erhebung
+
+Grundsätzlich erhebt AVENTER keine Verkehrsdaten in seinen angebotenen Diensleistungen. AVENTER verzichtet auf jegliche Analysetools zur ermittlung von Nutzerinformationen.
 
 ## Zweckgebundene Datenverwendung
 
@@ -57,5 +57,9 @@ Wir beachten den Grundsatz der zweckgebundenen Daten-Verwendung und erheben, ver
 ## Auskunft- und Widerrufsrecht
 
 Sie erhalten jederzeit ohne Angabe von Gründen kostenfrei Auskunft über Ihre bei uns gespeicherten Daten. Sie können jederzeit Ihre bei uns erhobenen Daten sperren oder berichtigen lassen. Auch können Sie jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenden Sie sich hierzu bitte an die im Impressum angegebene Kontaktadresse. Wir stehen Ihnen jederzeit gern für weitergehende Fragen zu unserem Hinweisen zum Datenschutz und zur Verarbeitung Ihrer persönlichen Daten zur Verfügung.
+
+## Verantwortlichkeit der erhobenen Daten
+
+Fuer alle von AVENTER erhobenen Personenbezogenen Daten, ist der im Impressum angegebene Geschaeftsfuehrer verantwortlich.
 
 Stand der Bestimmung, April 2018
