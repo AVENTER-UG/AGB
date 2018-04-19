@@ -27,7 +27,7 @@ Der von Ihnen auf dem WebSpace hochgeladenen Content wird auf unserem Server in 
 
 Die von Ihnen in die Cloud hochgeladenen Dateien, werden mit einem vom Ihnen ausgewaehlten Passwort und einem von AVENTER generierten Salt verschlüsselt auf einem Storage eines externen Dienstleister in den USA (siehe §3) abelegt. Keinem Mitarbeiter von AVENTER oder unserem Externen Dienstleister ist es moeglich diese Daten einzusehen.
 
-Die von Ihnen eingetragenen Kalendereinträge oder Addressen, liegen unverschlüsselt in einer Datenbank auf unserem Server in Strassburg (siehe §3).
+Die von Ihnen eingetragenen Kalendereinträge oder Addressen, liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3).
 
 Fuer die Rechnungsstellung speichern wir Ihre EMail Adresse, den Vor- und Nachnamen. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen. Die Daten liegen in einer Datenbank auf unserem Server in Strassburg  (siehe §3)und werden nach § 14b des UStG 10 Jahre aufgehoben. Eine Weitergabe der Daten an dritte findet nicht statt.
 
@@ -47,7 +47,7 @@ Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren In
 
 ### §2.4 - Wekan (https://wekan.aventer.biz)
 
-Die in Wekan eingebenen Daten werden unverschlüsselt in einer Datenbank auf unserem Server in Paris abgelegt.
+Die in Wekan eingebenen Daten werden in einer Datenbank auf unserem Server in Paris abgelegt.
 
 Zum anlegen eines Accounts wird eine EMail addresse benötigt. Diese muss nur temporär erreichbar sein. Eine Weitergabe der Daten an dritte findet nicht statt.
 
@@ -85,7 +85,7 @@ Die Daten liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3)
 
 ### §2.7 - Mastodon (https://mastodon.aventer.biz)
 
-Beim anlegen eines Mastodon Accounts wird eine temporär funktonierende EMail Adresse benötigt. Die EMail Adresse wie auch die Chatnachrichten werden unverschlüsselt in einer Datenbank auf unserem Server in Strassburg (siehe §3) gespeichert. Hochgeladene Dateien werden auf einem Storage eines externen Dienstleister in den USA (siehe §3) abgelegt. Die Dateien werdenen generisch anonymisiert. Eine Verbindung zum User ist nur über die Daten innerhalb der Datenbank möglich.
+Beim anlegen eines Mastodon Accounts wird eine temporär funktonierende EMail Adresse benötigt. Die EMail Adresse wie auch die Chatnachrichten werden in einer Datenbank auf unserem Server in Strassburg (siehe §3) gespeichert. Hochgeladene Dateien werden auf einem Storage eines externen Dienstleister in den USA (siehe §3) abgelegt. Die Dateien werdenen generisch anonymisiert. Eine Verbindung zum User ist nur über die Daten innerhalb der Datenbank möglich.
 
 Mastodon verwendet ActivityStreams zur Verbindung mit anderen Mastodon Instanzen ausserhalb von AVENTER. Alle Nachrichten die als Public gekennzeichnet sind, werden zu den jeweils verbundenen Instanzen geschickt und dort Abgelegt. Alle Nachrichten die Privat sind werden zu den Instanzen geschickt dessen User gefolgt wird. Eine weitergabe  oder verarbeitung dieser Daten durch Instanzen ausserhalb von AVENTER kann daher nicht ausgeschlossen werden.
 
@@ -101,7 +101,7 @@ Jede Kommunikation innerhalb der angebotenen Services, oder der Kommunikation vo
 
 ## §5 - Verkehrsdaten-Erhebung
 
-Grundsätzlich erhebt AVENTER keine Verkehrsdaten in seinen angebotenen Diensleistungen. AVENTER verzichtet auf jegliche Analysetools zur ermittlung von Nutzerinformationen. AVENTER gibt keine Verkehrsdaten an dritte weiter.
+Grundsätzlich erhebt AVENTER keine Verkehrsdaten in seinen angebotenen Diensleistungen. AVENTER verzichtet auf jegliche Analysetools zur ermittlung von Nutzerinformationen. AVENTER gibt keine Verkehrsdaten an dritte weiter. 
 
 ## §6 - Zweckgebundene Datenverwendung
 
