@@ -116,6 +116,6 @@ Fuer alle von AVENTER erhobenen Personenbezogenen Daten, ist der im Impressum an
 
 ## §9 - Kontodaten
 
-AVENTER speichert keine Kontodaten ab. Die Online Bezahlung erfolgt über den Bezahlprovider Paypal Inc. oder über SEPA Bank Überweisung.
+AVENTER erfast und speichert keine Kontodaten. Die Online Bezahlung erfolgt über den Bezahlprovider Paypal Inc. oder über SEPA Bank Überweisung.
 
 Stand der Bestimmung, April 2018
