@@ -63,7 +63,6 @@ Fuer die Rechnungsstellung und zusendung der Ware speichern wir folgende Daten:
 - Anschrift
 - Telefonnummer (optionale Angabe des Nutzers)
 - Bezahlmethode
-- Kontoverbindung (je nach bezahlmethode)
 - EMail Adresse
 
 Die Daten liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3) und werden nach § 14b des UStG 10 Jahre aufgehoben. Eine Weitergabe der Daten an dritte findet nicht statt.
@@ -114,5 +113,9 @@ Sie erhalten jederzeit ohne Angabe von Gründen kostenfrei Auskunft über Ihre b
 ## §8 - Verantwortlichkeit der erhobenen Daten
 
 Fuer alle von AVENTER erhobenen Personenbezogenen Daten, ist der im Impressum angegebene Geschaeftsfuehrer verantwortlich.
+
+## §9 - Kontodaten
+
+AVENTER speichert keine Kontodaten ab. Die Online Bezahlung erfolgt über den Bezahlprovider Paypal Inc. oder über SEPA Bank Überweisung.
 
 Stand der Bestimmung, April 2018
