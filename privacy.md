@@ -19,23 +19,23 @@ Bei dem Produkt "WebSpace", erfolgt die Bestellung der Domain über die dritt Fi
 - Telefonnummer
 - EMail Adresse
 
-Fuer die Rechnungsstellung speichern wir Ihre EMail Adresse, den Vor- und Nachnamen. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen.
+Fuer die Rechnungsstellung speichern wir Ihre EMail Adresse, den Vor- und Nachnamen. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen. Die Daten liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3) und werden nach § 14b des UStG 10 Jahre aufgehoben. Eine Weitergabe der Daten an dritte findet nicht statt.
 
 Der von Ihnen auf dem WebSpace hochgeladenen Content wird auf unserem Server in Strassburg gespeichern. Die Daten liegen nicht verschlüsselt vor und werden wöchentlich vor Datenverlust gesichert.
 
 ### §2.2 - nextCloud
 
-Die von Ihnen in die Cloud hochgeladenen Dateien, werden mit einem vom Ihnen ausgewaehlten Passwort und einem von AVENTER generierten Salt verschlüsselt auf einem Storage eines externen Dienstleister in den USA (siehe §3) abelegt. Keinem Mitarbeiter von AVENTER oder unserem Externen Dienstleister ist es moeglich diese Daten einzusehen.
+Die von Ihnen in die Cloud hochgeladenen Dateien, werden mit einem vom Ihnen ausgewaehlten Passwort und einem von AVENTER generierten Salt verschlüsselt auf einem Storage eines externen Dienstleister in den USA (siehe §3) abgelegt. Keinem Mitarbeiter von AVENTER oder unserem Externen Dienstleister ist es moeglich diese Daten einzusehen.
 
 Die von Ihnen eingetragenen Kalendereinträge oder Addressen, liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3).
 
 Fuer die Rechnungsstellung speichern wir Ihre EMail Adresse, den Vor- und Nachnamen. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen. Die Daten liegen in einer Datenbank auf unserem Server in Strassburg  (siehe §3)und werden nach § 14b des UStG 10 Jahre aufgehoben. Eine Weitergabe der Daten an dritte findet nicht statt.
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internt Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
 
 ### §2.3 - Matrix/Riot Chat und Bot Services
 
-Die in Matrix hochgeladenen Dateien werden auf einem Storage eines externen Dienstleister in den USA (siehe §3) abgelegt. Besteht eine Ende zu Ende (E2E) verschlüsselung Ihrer Chat Verbindung, liegen diese Dateien verschlüsselt vor. E2E müssen Sie jeweils manuell im Chat Raum einstellen. Die Hochgeladenen Dateien sind mit einem generieschen schlüssel anonymisiert und Ihrem Benutzer nicht ohne Zugriff auf die Matix Datenbank zuzuordnen. Jede Datei kann von Ihnen selbst wieder gelöscht werden.
+Die in Matrix hochgeladenen Dateien werden auf einem Storage eines externen Dienstleister in den USA (siehe §3) abgelegt. Besteht eine Ende zu Ende (E2E) verschlüsselung Ihrer Chat Verbindung, liegen diese Dateien verschlüsselt vor. E2E müssen Sie jeweils manuell im Chat Raum einstellen. Die Hochgeladenen Dateien sind mit einem generieschen Schlüssel anonymisiert und Ihrem Benutzer nicht ohne Zugriff auf die Matrix Datenbank zuzuordnen. Jede Datei kann von Ihnen selbst wieder gelöscht werden.
 
 Die Chatnachrichten liegen in einer Datenbank auf unseren Server in Strassburg (siehe §3). Besteht eine Ende zu Ende (E2E) verschlüsselung Ihrer Chat Verbindung, liegen diese Nachrichten verschlüsselt vor. E2E müssen Sie jeweils manuell im Chat Raum einstellen. Jede Nachricht kann von Ihnen selbst wieder gelöscht werden.
 
@@ -43,7 +43,7 @@ Matrix ist ein federatives Chat System. D.h. jeder Nutzer des AVENTER Matrix Cha
 
 Zum anlegen eines Chat Accounts wird lediglich ein fiktiver Username benötigt. Die Eingabe einer EMail Adresse oder der Telefonnummer ist nur optional und wird seitens der Sofware für einen Passwort Reset verwendet. Für die Nutzung sind die Daten nicht relevant. Eine Weitergabe der Daten an dritte findet nicht statt.
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internt Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
 
 ### §2.4 - Wekan (https://wekan.aventer.biz)
 
@@ -51,7 +51,7 @@ Die in Wekan eingebenen Daten werden in einer Datenbank auf unserem Server in Pa
 
 Zum anlegen eines Accounts wird eine EMail addresse benötigt. Diese muss nur temporär erreichbar sein. Eine Weitergabe der Daten an dritte findet nicht statt.
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internt Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
 
 ### §2.5 - www.der-online-shop.de
 
@@ -67,7 +67,7 @@ Fuer die Rechnungsstellung und zusendung der Ware speichern wir folgende Daten:
 
 Die Daten liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3) und werden nach § 14b des UStG 10 Jahre aufgehoben. Eine Weitergabe der Daten an dritte findet nicht statt.
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internt Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
 
 ### §2.6 - Consulting Taetigkeiten
 
@@ -88,11 +88,11 @@ Beim anlegen eines Mastodon Accounts wird eine temporär funktonierende EMail Ad
 
 Mastodon verwendet ActivityStreams zur Verbindung mit anderen Mastodon Instanzen ausserhalb von AVENTER. Alle Nachrichten die als Public gekennzeichnet sind, werden zu den jeweils verbundenen Instanzen geschickt und dort Abgelegt. Alle Nachrichten die Privat sind werden zu den Instanzen geschickt dessen User gefolgt wird. Eine weitergabe  oder verarbeitung dieser Daten durch Instanzen ausserhalb von AVENTER kann daher nicht ausgeschlossen werden.
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internt Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
 
 ## §3 - Externe Diensleister
 
-Alle Externen Dienstleister innerhalb der EU, haben sich AVENTER gegenüber verpflichtet, die DSGVO einzuhalten. Alle Externen Diensleister in den USA, sind Security-Shield Zertifiziert. Durch diese Zertifizierung ist es AVENTER gestattet mit den Firmen zusammen zu arbeiten.
+Alle Externen Dienstleister innerhalb der EU, haben sich AVENTER gegenüber verpflichtet, die DSGVO einzuhalten. Alle Externen Diensleister in den USA, sind Security-Shield Zertifiziert.
 
 ## §4 - Kommunikation innerhalb der Services
 
@@ -100,11 +100,11 @@ Jede Kommunikation innerhalb der angebotenen Services, oder der Kommunikation vo
 
 ## §5 - Verkehrsdaten-Erhebung
 
-Grundsätzlich erhebt AVENTER keine Verkehrsdaten in seinen angebotenen Diensleistungen. AVENTER verzichtet auf jegliche Analysetools zur ermittlung von Nutzerinformationen. AVENTER gibt keine Verkehrsdaten an dritte weiter. 
+Grundsätzlich erhebt AVENTER keine Verkehrsdaten in seinen angebotenen Diensleistungen. AVENTER verzichtet auf jegliche Analysetools zur ermittlung von Nutzerinformationen. AVENTER gibt keine Verkehrsdaten an dritte weiter. AVENTER nutzt keine Information zur Schaltung von Werbung. AVENTER verkauft keine Nutzerdaten.
 
 ## §6 - Zweckgebundene Datenverwendung
 
-Wir beachten den Grundsatz der zweckgebundenen Daten-Verwendung und erheben, verarbeiten und speichern Ihre personenbezogenen Daten nur für die Zwecke, für die Sie sie uns mitgeteilt haben. Eine Weitergabe Ihrer persönlichen Daten an Dritte erfolgt ohne Ihre ausdrückliche Einwilligung nicht, sofern dies nicht zur Erbringung der Dienstleistung oder zur Vertragsdurchführung notwendig ist. Auch die Übermittlung an auskunftsberechtigte staatliche Institution und Behörden erfolgt nur im Rahmen der gesetzlichen Auskunftspflichten oder wenn wir durch eine gerichtliche Entscheidung zur Auskunft verpflichtet werden. Der Kunde wird ausdruecklich vor jeder weitergabe schriftlich Informiert, die Weitergabe wird nur nach ausdrücklicher Einwilligung erfolgen.
+Wir beachten den Grundsatz der zweckgebundenen Daten-Verwendung und erheben, verarbeiten und speichern Ihre personenbezogenen Daten nur für die Zwecke, für die Sie sie uns mitgeteilt haben. Eine Weitergabe Ihrer persönlichen Daten an Dritte erfolgt ohne Ihre ausdrückliche Einwilligung nicht, sofern dies nicht zur Erbringung der Dienstleistung oder zur Vertragsdurchführung notwendig ist. Auch die Übermittlung an auskunftsberechtigte staatliche Institution und Behörden erfolgt nur im Rahmen der gesetzlichen Auskunftspflichten oder wenn wir durch eine gerichtliche Entscheidung zur Auskunft verpflichtet werden. Der Kunde wird ausdruecklich vor jeder Weitergabe schriftlich Informiert, die Weitergabe wird nur nach ausdrücklicher Einwilligung erfolgen.
  
 ## §7 - Auskunft- und Widerrufsrecht
 
@@ -118,4 +118,4 @@ Fuer alle von AVENTER erhobenen Personenbezogenen Daten, ist der im Impressum an
 
 AVENTER erfast und speichert keine Kontodaten. Die Online Bezahlung erfolgt über den Bezahlprovider Paypal Inc. oder über SEPA Bank Überweisung.
 
-Stand der Bestimmung, April 2018
+Stand der Bestimmung, Mai 2018
