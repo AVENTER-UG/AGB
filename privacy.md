@@ -1,121 +1,123 @@
-# Nutzungs- und Datenschutzbestimmungen
+# Datenschutzerklärung
 
-## §1 - Gegenstand des Datenschutzes
+Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf. (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
-Gegenstand des Datenschutzes sind personenbezogene Daten. Diese sind nach § 3 Abs. 1 BDSG Einzelangaben über persönlich oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person. Hierunter fallen z. B. Angaben wie Name, Post-Adresse, E-Mail-Adresse oder Telefonnummer, aber auch Nutzungsdaten wie Ihre IP-Adresse.
+## Verantwortlicher
 
-## §2 - Umfang der Datenerhebung und -speicherung
+AVENTER UG (haftungsbeschränkt)
+Andreas Peters
+Köllner-Chaussee 144
+D-25337 Kölln-Reisiek
+GGf. Geschäftsführer/Inhaber: Andreas Peters
+Link zum Impressum: https://www.aventer.biz/#impress
 
-Im Allgemeinen ist es für die Nutzung unserer Internetseite nicht erforderlich, dass Sie personenbezogene Daten angeben. Wenn Sie uns mit der Erbringung einer Dienstleistung oder der Zusendung von Ware beauftragen, erheben und speichern wir Ihre persönlichen Daten grundsätzlich nur, soweit es für die Erbringung der Dienstleistung oder die Durchführung des Vertrages notwendig ist. Falls wir eine der nachfolgend beschriebenen oder sonstigen Handlungen vornehmen oder Leistungen erbringen, möchten wir Ihre personenbezogenen Daten erheben und speichern und werden Sie an der entsprechenden Stelle unserer Internetseite um Ihre ausdrückliche Einwilligung ersuchen:
+## Arten der verarbeiteten Daten:
 
-### §2.1 - WebSpace
+- Bestandsdaten (Namen, Adressen).
+- Kontaktdaten (E-Mail, Telefonnummern).
+- Inhaltsdaten (Texteingaben, Fotografien, Videos, Dateien).
 
-Bei dem Produkt "WebSpace", erfolgt die Bestellung der Domain über die dritt Firma "InterNetworx"  (siehe §3) (www.inwx.de). Für die Bestellung der Domain tritt der Kunde als Registrand auf. Hierfür müssen der Firma InterNetworx folgende Kunden Daten übermittelt werden:
+##  Kategorien betroffener Personen
 
-- Vor- Nachname
-- Straße und Hausnummer
-- Postleitzahl und Wohnort
-- Land
-- Telefonnummer
-- EMail Adresse
+Besucher und Nutzer der Onlineangebote (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer“).
 
-Fuer die Rechnungsstellung speichern wir Ihre EMail Adresse, den Vor- und Nachnamen. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen. Die Daten liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3) und werden nach § 14b des UStG 10 Jahre aufgehoben. Eine Weitergabe der Daten an dritte findet nicht statt.
+## Zweck der Verarbeitung
 
-Der von Ihnen auf dem WebSpace hochgeladenen Content wird auf unserem Server in Strassburg gespeichern. Die Daten liegen nicht verschlüsselt vor und werden wöchentlich vor Datenverlust gesichert.
+- Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
+- Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
+- Sicherheitsmaßnahmen.
+- Warenzusensung, Rechungstellung
 
-### §2.2 - nextCloud
+## Verwendete Begrifflichkeiten
 
-Die von Ihnen in die Cloud hochgeladenen Dateien, werden mit einem vom Ihnen ausgewaehlten Passwort und einem von AVENTER generierten Salt verschlüsselt auf einem Storage eines externen Dienstleister in den USA (siehe §3) abgelegt. Keinem Mitarbeiter von AVENTER oder unserem Externen Dienstleister ist es moeglich diese Daten einzusehen.
+„Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
 
-Die von Ihnen eingetragenen Kalendereinträge oder Addressen, liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3).
+„Verarbeitung“ ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten.
 
-Fuer die Rechnungsstellung speichern wir Ihre EMail Adresse, den Vor- und Nachnamen. Sollten Sie eine postalische oder von den Steuern absetzbare Rechnung benoetigen, muessen wir zusaetzlich Ihre Anschrift erfassen. Die Daten liegen in einer Datenbank auf unserem Server in Strassburg  (siehe §3)und werden nach § 14b des UStG 10 Jahre aufgehoben. Eine Weitergabe der Daten an dritte findet nicht statt.
+Als „Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+## Maßgebliche Rechtsgrundlagen
 
-### §2.3 - Matrix/Riot Chat und Bot Services
+Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit. Sofern die Rechtsgrundlage in der Datenschutzerklärung nicht genannt wird, gilt Folgendes: Die Rechtsgrundlage für die Einholung von Einwilligungen ist Art. 6 Abs. 1 lit. a und Art. 7 DSGVO, die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer Leistungen und Durchführung vertraglicher Maßnahmen sowie Beantwortung von Anfragen ist Art. 6 Abs. 1 lit. b DSGVO, die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer rechtlichen Verpflichtungen ist Art. 6 Abs. 1 lit. c DSGVO, und die Rechtsgrundlage für die Verarbeitung zur Wahrung unserer berechtigten Interessen ist Art. 6 Abs. 1 lit. f DSGVO. Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.
 
-Die in Matrix hochgeladenen Dateien werden auf einem Storage eines externen Dienstleister in den USA (siehe §3) abgelegt. Besteht eine Ende zu Ende (E2E) verschlüsselung Ihrer Chat Verbindung, liegen diese Dateien verschlüsselt vor. E2E müssen Sie jeweils manuell im Chat Raum einstellen. Die Hochgeladenen Dateien sind mit einem generieschen Schlüssel anonymisiert und Ihrem Benutzer nicht ohne Zugriff auf die Matrix Datenbank zuzuordnen. Jede Datei kann von Ihnen selbst wieder gelöscht werden.
+## Zusammenarbeit mit Auftragsverarbeitern und Dritten
 
-Die Chatnachrichten liegen in einer Datenbank auf unseren Server in Strassburg (siehe §3). Besteht eine Ende zu Ende (E2E) verschlüsselung Ihrer Chat Verbindung, liegen diese Nachrichten verschlüsselt vor. E2E müssen Sie jeweils manuell im Chat Raum einstellen. Jede Nachricht kann von Ihnen selbst wieder gelöscht werden.
+Sofern wir im Rahmen unserer Verarbeitung Daten gegenüber anderen Personen und Unternehmen (Auftragsverarbeitern oder Dritten) offenbaren, sie an diese übermitteln oder ihnen sonst Zugriff auf die Daten gewähren, erfolgt dies nur auf Grundlage einer gesetzlichen Erlaubnis (z.B. wenn eine Übermittlung der Daten an Dritte, wie an Zahlungsdienstleister, gem. Art. 6 Abs. 1 lit. b DSGVO zur Vertragserfüllung erforderlich ist), Sie eingewilligt haben, eine rechtliche Verpflichtung dies vorsieht oder auf Grundlage unserer berechtigten Interessen (z.B. beim Einsatz von Beauftragten, Webhostern, etc.).
 
-Matrix ist ein federatives Chat System. D.h. jeder Nutzer des AVENTER Matrix Chats, kann auch mit jedem Nutzer eines Matrix Dienstes einer anderen Organisation Chatten. Findet diese Instanzübergreifende Kommunikation statt, werden die gesendeten Chatnachrichten und/oder Dateien auf den jeweiligen anderen Instanzen abgespeichert. Eine weitergabe oder verarbeitung dieser Daten durch Instanzen ausserhalb von AVENTER kann daher nicht ausgeschlossen werden.
+Sofern wir Dritte mit der Verarbeitung von Daten auf Grundlage eines sog. „Auftragsverarbeitungsvertrages“ beauftragen, geschieht dies auf Grundlage des Art. 28 DSGVO.
 
-Zum anlegen eines Chat Accounts wird lediglich ein fiktiver Username benötigt. Die Eingabe einer EMail Adresse oder der Telefonnummer ist nur optional und wird seitens der Sofware für einen Passwort Reset verwendet. Für die Nutzung sind die Daten nicht relevant. Eine Weitergabe der Daten an dritte findet nicht statt.
+## Übermittlungen in Drittländer
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+Sofern wir Daten in einem Drittland (d.h. außerhalb der Europäischen Union (EU) oder des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter oder Offenlegung, bzw. Übermittlung von Daten an Dritte geschieht, erfolgt dies nur, wenn es zur Erfüllung unserer (vor)vertraglichen Pflichten, auf Grundlage Ihrer Einwilligung, aufgrund einer rechtlichen Verpflichtung oder auf Grundlage unserer berechtigten Interessen geschieht. Vorbehaltlich gesetzlicher oder vertraglicher Erlaubnisse, verarbeiten oder lassen wir die Daten in einem Drittland nur beim Vorliegen der besonderen Voraussetzungen der Art. 44 ff. DSGVO verarbeiten. D.h. die Verarbeitung erfolgt z.B. auf Grundlage besonderer Garantien, wie der offiziell anerkannten Feststellung eines der EU entsprechenden Datenschutzniveaus (z.B. für die USA durch das „Privacy Shield“) oder Beachtung offiziell anerkannter spezieller vertraglicher Verpflichtungen (so genannte „Standardvertragsklauseln“).
 
-### §2.4 - Wekan (https://wekan.aventer.biz)
+## Rechte der betroffenen Personen
 
-Die in Wekan eingebenen Daten werden in einer Datenbank auf unserem Server in Paris abgelegt.
+Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend Art. 15 DSGVO.
 
-Zum anlegen eines Accounts wird eine EMail addresse benötigt. Diese muss nur temporär erreichbar sein. Eine Weitergabe der Daten an dritte findet nicht statt.
+Sie haben entsprechend. Art. 16 DSGVO das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+Sie haben nach Maßgabe des Art. 17 DSGVO das Recht zu verlangen, dass betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe des Art. 18 DSGVO eine Einschränkung der Verarbeitung der Daten zu verlangen.
 
-### §2.5 - www.der-online-shop.de
+Sie haben das Recht zu verlangen, dass die Sie betreffenden Daten, die Sie uns bereitgestellt haben nach Maßgabe des Art. 20 DSGVO zu erhalten und deren Übermittlung an andere Verantwortliche zu fordern.
 
-Fuer die Rechnungsstellung und zusendung der Ware speichern wir folgende Daten:
+Sie haben ferner gem. Art. 77 DSGVO das Recht, eine Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen.
 
-- Name der Firma (falls Gewerblicher Nutzer)
-- Vor- Nachname der Kontaktperson
-- Firmenanschrift (falls Gewerblicher Nutzer)
-- Anschrift
-- Telefonnummer (optionale Angabe des Nutzers)
-- Bezahlmethode
-- EMail Adresse
+## Widerrufsrecht
 
-Die Daten liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3) und werden nach § 14b des UStG 10 Jahre aufgehoben. Eine Weitergabe der Daten an dritte findet nicht statt.
+Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkung für die Zukunft zu widerrufen
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+## Widerspruchsrecht
 
-### §2.6 - Consulting Taetigkeiten
+Sie können der künftigen Verarbeitung der Sie betreffenden Daten nach Maßgabe des Art. 21 DSGVO jederzeit widersprechen. Der Widerspruch kann insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung erfolgen.
 
-Bei Consulting Taetigkeiten speichern wir folgende Daten:
+## Cookies und Widerspruchsrecht bei Direktwerbung
 
-- Name der Firma
-- Vor- Nachname der Kontaktperson
-- Firmenanschrift
-- Telefonnummer (optionale Angabe des Nutzers)
-- EMail Adresse (optionale Angabe des Nutzers)
-- UmsatzsteuerID
+Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer gespeichert werden. Innerhalb der Cookies können unterschiedliche Angaben gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem Nutzer (bzw. dem Gerät auf dem das Cookie gespeichert ist) während oder auch nach seinem Besuch innerhalb eines Onlineangebotes zu speichern. Als temporäre Cookies, bzw. „Session-Cookies“ oder „transiente Cookies“, werden Cookies bezeichnet, die gelöscht werden, nachdem ein Nutzer ein Onlineangebot verlässt und seinen Browser schließt. In einem solchen Cookie kann z.B. der Inhalt eines Warenkorbs in einem Onlineshop oder ein Login-Staus gespeichert werden. Als „permanent“ oder „persistent“ werden Cookies bezeichnet, die auch nach dem Schließen des Browsers gespeichert bleiben. So kann z.B. der Login-Status gespeichert werden, wenn die Nutzer diese nach mehreren Tagen aufsuchen. Ebenso können in einem solchen Cookie die Interessen der Nutzer gespeichert werden, die für Reichweitenmessung oder Marketingzwecke verwendet werden. Als „Third-Party-Cookie“ werden Cookies bezeichnet, die von anderen Anbietern als dem Verantwortlichen, der das Onlineangebot betreibt, angeboten werden (andernfalls, wenn es nur dessen Cookies sind spricht man von „First-Party Cookies“).
 
-Die Daten liegen in einer Datenbank auf unserem Server in Strassburg (siehe §3) und werden nach § 14b des UStG 10 Jahre aufgehoben. Eine Weitergabe der Daten an dritte findet nicht statt.
+Wir können temporäre und permanente Cookies einsetzen und klären hierüber im Rahmen unserer Datenschutzerklärung auf.
 
-### §2.7 - Mastodon (https://mastodon.aventer.biz)
+Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.
 
-Beim anlegen eines Mastodon Accounts wird eine temporär funktonierende EMail Adresse benötigt. Die EMail Adresse wie auch die Chatnachrichten werden in einer Datenbank auf unserem Server in Strassburg (siehe §3) gespeichert. Hochgeladene Dateien werden auf einem Storage eines externen Dienstleister in den USA (siehe §3) abgelegt. Die Dateien werdenen generisch anonymisiert. Eine Verbindung zum User ist nur über die Daten innerhalb der Datenbank möglich.
+Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des Trackings, über die US-amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite http://www.youronlinechoices.com/ erklärt werden. Des Weiteren kann die Speicherung von Cookies mittels deren Abschaltung in den Einstellungen des Browsers erreicht werden. Bitte beachten Sie, dass dann gegebenenfalls nicht alle Funktionen dieses Onlineangebotes genutzt werden können.
 
-Mastodon verwendet ActivityStreams zur Verbindung mit anderen Mastodon Instanzen ausserhalb von AVENTER. Alle Nachrichten die als Public gekennzeichnet sind, werden zu den jeweils verbundenen Instanzen geschickt und dort Abgelegt. Alle Nachrichten die Privat sind werden zu den Instanzen geschickt dessen User gefolgt wird. Eine weitergabe  oder verarbeitung dieser Daten durch Instanzen ausserhalb von AVENTER kann daher nicht ausgeschlossen werden.
+## Löschung von Daten
 
-Dieser Service verwendet Cookies. Cookies sind kleine Dateien die durch Ihren Internet Browser auf Ihrem Computer gespeichert wird. Cookies dienen zur Wiedererkennung Ihres Browsers. Haben Sie einen Account in dem Service, wird dieser Cookie mit Ihrem Account verknüpft.
+Die von uns verarbeiteten Daten werden nach Maßgabe der Art. 17 und 18 DSGVO gelöscht oder in ihrer Verarbeitung eingeschränkt. Sofern nicht im Rahmen dieser Datenschutzerklärung ausdrücklich angegeben, werden die bei uns gespeicherten Daten gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung eingeschränkt. D.h. die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B. für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen.
 
-## §3 - Externe Diensleister
+Nach gesetzlichen Vorgaben in Deutschland erfolgt die Aufbewahrung insbesondere für 6 Jahre gemäß § 257 Abs. 1 HGB (Handelsbücher, Inventare, Eröffnungsbilanzen, Jahresabschlüsse, Handelsbriefe, Buchungsbelege, etc.) sowie für 10 Jahre gemäß § 147 Abs. 1 AO (Bücher, Aufzeichnungen, Lageberichte, Buchungsbelege, Handels- und Geschäftsbriefe, Für Besteuerung relevante Unterlagen, etc.).
 
-Alle Externen Dienstleister innerhalb der EU, haben sich AVENTER gegenüber verpflichtet, die DSGVO einzuhalten. Alle Externen Diensleister in den USA, sind Security-Shield Zertifiziert.
+Nach gesetzlichen Vorgaben in Österreich erfolgt die Aufbewahrung insbesondere für 7 J gemäß § 132 Abs. 1 BAO (Buchhaltungsunterlagen, Belege/Rechnungen, Konten, Belege, Geschäftspapiere, Aufstellung der Einnahmen und Ausgaben, etc.), für 22 Jahre im Zusammenhang mit Grundstücken und für 10 Jahre bei Unterlagen im Zusammenhang mit elektronisch erbrachten Leistungen, Telekommunikations-, Rundfunk- und Fernsehleistungen, die an Nichtunternehmer in EU-Mitgliedstaaten erbracht werden und für die der Mini-One-Stop-Shop (MOSS) in Anspruch genommen wird.
 
-## §4 - Kommunikation innerhalb der Services
+## Geschäftsbezogene Verarbeitung
 
-Jede Kommunikation innerhalb der angebotenen Services, oder der Kommunikation von AVENTER zu externen Instanzen oder Dienstleistern, erfolgt TLS verschlüsselt.
+Zusätzlich verarbeiten wir
+- Vertragsdaten (z.B., Vertragsgegenstand, Laufzeit, Kundenkategorie).
+- Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie, Zahlungsanbieter)
+von unseren Kunden, Interessenten und Geschäftspartner zwecks Erbringung vertraglicher Leistungen und Service
 
-## §5 - Verkehrsdaten-Erhebung
+ ## Erbringung vertraglicher Leistungen
 
-Grundsätzlich erhebt AVENTER keine Verkehrsdaten in seinen angebotenen Diensleistungen. AVENTER verzichtet auf jegliche Analysetools zur ermittlung von Nutzerinformationen. AVENTER gibt keine Verkehrsdaten an dritte weiter. AVENTER nutzt keine Information zur Schaltung von Werbung. AVENTER verkauft keine Nutzerdaten.
+Wir verarbeiten Bestandsdaten (z.B., Namen und Adressen sowie Kontaktdaten von Nutzern), Vertragsdaten (z.B., in Anspruch genommene Leistungen, Namen von Kontaktpersonen, Zahlungsinformationen) zwecks Erfüllung unserer vertraglichen Verpflichtungen und Serviceleistungen gem. Art. 6 Abs. 1 lit b. DSGVO. Die in Onlineformularen als verpflichtend gekennzeichneten Eingaben, sind für den Vertragsschluss erforderlich.
 
-## §6 - Zweckgebundene Datenverwendung
+Im Rahmen der Inanspruchnahme unserer Onlinedienste, speichern wir die IP-Adresse und den Zeitpunkt der jeweiligen Nutzerhandlung. Die Speicherung erfolgt auf Grundlage unserer berechtigten Interessen, als auch der Nutzer an Schutz vor Missbrauch und sonstiger unbefugter Nutzung. Eine Weitergabe dieser Daten an Dritte erfolgt grundsätzlich nicht, außer sie ist zur Verfolgung unserer Ansprüche erforderlich oder es besteht hierzu eine gesetzliche Verpflichtung gem. Art. 6 Abs. 1 lit. c DSGVO.
 
-Wir beachten den Grundsatz der zweckgebundenen Daten-Verwendung und erheben, verarbeiten und speichern Ihre personenbezogenen Daten nur für die Zwecke, für die Sie sie uns mitgeteilt haben. Eine Weitergabe Ihrer persönlichen Daten an Dritte erfolgt ohne Ihre ausdrückliche Einwilligung nicht, sofern dies nicht zur Erbringung der Dienstleistung oder zur Vertragsdurchführung notwendig ist. Auch die Übermittlung an auskunftsberechtigte staatliche Institution und Behörden erfolgt nur im Rahmen der gesetzlichen Auskunftspflichten oder wenn wir durch eine gerichtliche Entscheidung zur Auskunft verpflichtet werden. Der Kunde wird ausdruecklich vor jeder Weitergabe schriftlich Informiert, die Weitergabe wird nur nach ausdrücklicher Einwilligung erfolgen.
- 
-## §7 - Auskunft- und Widerrufsrecht
+Die Löschung der Daten erfolgt nach Ablauf gesetzlicher Gewährleistungs- und vergleichbarer Pflichten, die Erforderlichkeit der Aufbewahrung der Daten wird alle drei Jahre überprüft; im Fall der gesetzlichen Archivierungspflichten erfolgt die Löschung nach deren Ablauf. Angaben im etwaigen Kundenkonto verbleiben bis zu dessen Löschung.
 
-Sie erhalten jederzeit ohne Angabe von Gründen kostenfrei Auskunft über Ihre bei uns gespeicherten Daten. Sie können jederzeit Ihre bei uns erhobenen Daten sperren oder berichtigen lassen. Auch können Sie jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenden Sie sich hierzu bitte an die im Impressum angegebene Kontaktadresse. Wir stehen Ihnen jederzeit gern für weitergehende Fragen zu unserem Hinweisen zum Datenschutz und zur Verarbeitung Ihrer persönlichen Daten zur Verfügung.
+## Registrierfunktion
 
-## §8 - Verantwortlichkeit der erhobenen Daten
+Nutzer können optional ein Nutzerkonto anlegen. Im Rahmen der Registrierung werden die erforderlichen Pflichtangaben den Nutzern mitgeteilt. Die im Rahmen der Registrierung eingegebenen Daten werden für die Zwecke der Nutzung des Angebotes verwendet. Die Nutzer können über angebots- oder registrierungsrelevante Informationen, wie Änderungen des Angebotsumfangs oder technische Umstände per E-Mail informiert werden. Wenn Nutzer ihr Nutzerkonto gekündigt haben, werden deren Daten im Hinblick auf das Nutzerkonto gelöscht, vorbehaltlich deren Aufbewahrung ist aus handels- oder steuerrechtlichen Gründen entspr. Art. 6 Abs. 1 lit. c DSGVO notwendig. Es obliegt den Nutzern, ihre Daten bei erfolgter Kündigung vor dem Vertragsende zu sichern. Wir sind berechtigt, sämtliche während der Vertragsdauer gespeicherten Daten des Nutzers unwiederbringlich zu löschen.
 
-Fuer alle von AVENTER erhobenen Personenbezogenen Daten, ist der im Impressum angegebene Geschaeftsfuehrer verantwortlich.
+Im Rahmen der Inanspruchnahme unserer Regsitrierungs- und Anmeldefunktionen sowie der Nutzung der Nutzerkontos, speichern wird die IP-Adresse und den Zeitpunkt der jeweiligen Nutzerhandlung. Die Speicherung erfolgt auf Grundlage unserer berechtigten Interessen, als auch der Nutzer an Schutz vor Missbrauch und sonstiger unbefugter Nutzung. Eine Weitergabe dieser Daten an Dritte erfolgt grundsätzlich nicht, außer sie ist zur Verfolgung unserer Ansprüche erforderlich oder es besteht hierzu besteht eine gesetzliche Verpflichtung gem. Art. 6 Abs. 1 lit. c DSGVO. Die IP-Adressen werden spätestens nach 7 Tagen anonymisiert oder gelöscht.
 
-## §9 - Kontodaten
+## Kontaktaufnahme
 
-AVENTER erfast und speichert keine Kontodaten. Die Online Bezahlung erfolgt über den Bezahlprovider Paypal Inc. oder über SEPA Bank Überweisung.
+Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon oder via sozialer Medien) werden die Angaben des Nutzers zur Bearbeitung der Kontaktanfrage und deren Abwicklung gem. Art. 6 Abs. 1 lit. b) DSGVO verarbeitet. Die Angaben der Nutzer können in einem Customer-Relationship-Management System ("CRM System") oder vergleichbarer Anfragenorganisation gespeichert werden.
+
+Wir löschen die Anfragen, sofern diese nicht mehr erforderlich sind. Wir überprüfen die Erforderlichkeit alle zwei Jahre; Ferner gelten die gesetzlichen Archivierungspflichten.
+
+## Google Fonts
+
+Wir binden die Schriftarten ("Google Fonts") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://adssettings.google.com/authenticated.
+
 
 Stand der Bestimmung, Mai 2018
