@@ -1,4 +1,4 @@
-# Impressumg
+# Impressum
 
 Seitenbetreiber i.S.d. § 5 TMG
 
