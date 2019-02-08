@@ -14,10 +14,10 @@
 
 (1) Im Falle des Vertragsschlusses kommt der Vertrag mit
 
-AVENTER UG (haftungsbeschränkt)
-Andreas Peters
-Köllner-Chaussee 144
-D-25337 Kölln-Reisiek
+AVENTER UG (haftungsbeschränkt)  
+Andreas Peters  
+Köllner-Chaussee 144  
+D-25337 Kölln-Reisiek  
 
 zustande.
 
@@ -55,10 +55,10 @@ Der Verbraucher kann die Vertragserklärung innerhalb von einem (1) Monat ohne A
 
 Der Widerruf ist zu richten an:
 
-AVENTER UG (haftungsbeschränkt)
-Andreas Peters
-Köllner-Chaussee 144
-D-25337 Kölln-Reisiek
+AVENTER UG (haftungsbeschränkt)  
+Andreas Peters  
+Köllner-Chaussee 144  
+D-25337 Kölln-Reisiek  
 
 ### Widerrufsfolgen
 
@@ -68,7 +68,7 @@ Im Falle eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen z
 
 Bei einer Dienstleistung erlischt Ihr Widerrufsrecht vorzeitig, wenn Ihr Vertragspartner mit der Ausführung der Dienstleistung mit Ihrer ausdrücklichen Zustimmung vor Ende der Widerrufsfrist begonnen hat oder Sie diese selbst veranlasst haben. 
 
-Ende der Widerrufsbelehrung 
+Ende der Widerrufsbelehrung
 
 ## §5 Vertragsprache
 
@@ -102,7 +102,7 @@ AVENTER ist nicht verpflichtet, die Internet Präsenz des Verbraucher, der Auftr
 
 Der Verbraucher, der Auftraggeber ist berechtigt, andere Unternehmen oder Waren und Dienstleistungen auf dem Webserver darzustellen. AVENTER behält sich allerdings vor, solchen Drittpräsentationen zu widersprechen, wenn ihre eigenen Interessen hiervon berührt werden. Eine solche Interessenskollision besteht vor allem dann, wenn Konkurrenten präsentiert werden sollen. Die Haftung für die Drittpräsentation übernimmt in jedem Fall der Verbraucher, der Auftraggeber.
 
-## §7  Domainregistrierung, Freistellung, Domainstreitigkeiten 
+## §7  Domainregistrierung, Freistellung, Domainstreitigkeiten
 
 Bei der Beschaffung und/oder Pflege von Internet-Domains wird AVENTER im Verhältnis zwischen dem Verbraucher, der Auftraggebern und der DENIC oder einer anderen Organisation zur Domainvergabe, lediglich als Vermittler tätig. AVENTER hat auf die Domainvergabe keinen Einfluss. AVENTER übernimmt daher keine Gewähr dafür, dass die Recherche nach freien Domains richtig ist, da diese Gewähr bereits von den Betreibern der Datenbank nicht gewährleistet wird (das die für den Verbraucher, der Auftraggebern beantragten Domains überhaupt zugeteilt werden und/oder zugeteilte Domains frei von Rechten Dritter sind oder auf Dauer Bestand haben). Von Ersatzansprüchen Dritter, die auf der unzulässigen Verwendung einer Internet-Domain durch den Verbraucher, der Auftraggebern beruhen, stellt der Verbraucher, der Auftraggeber AVENTER frei.
 
@@ -112,15 +112,15 @@ Soweit .com-, .net- oder .org-Domains Vertragsgegenstand sind, erkennt der Verbr
 
 Soweit .com-, .net- oder .org- Domains Vertragsgegenstand sind, ist während der Dauer eines gerichtlichen Verfahrens oder Schiedsverfahrens über die Domain wegen der Verletzung von Marken-, Namen- und sonstigen Schutzrechten sowie 15 Tage über die abschließende Entscheidung in diesem Verfahren hinaus eine Übertragung der Domain durch den Verbraucher, der Auftraggebern an Dritte ausgeschlossen, es sei denn, es ist sichergestellt, dass die ergehende Entscheidung für den Dritten in gleicher Weise wie für den Verbraucher, der Auftraggebern bindend ist.
 
-## §8 Haftung 
+## §8 Haftung
 
 Für Schäden haftet AVENTER nur dann, wenn sie eine wesentliche Vertragspflicht in einer den Vertragszweck gefährdenden Weise verletzt hat oder der Schaden auf grobe Fahrlässigkeit oder Vorsatz zurückzuführen ist (bei Verletzung von Leben, Körper oder der Gesundheit gilt die Haftung für vorsätzliche oder fahrlässige Pflichtverletzung). Sofern nicht Vorsatz oder grobe Fahrlässigkeit (oder bei Verletzung von Leben, Körper oder der Gesundheit auch Fahrlässigkeit) vorliegt, ist jede Haftung auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt. Im übrigen ist, sofern nicht Vorsatz oder grobe Fahrlässigkeit vorliegt (bei Verletzung von Leben, Körper oder der Gesundheit auch Fahrlässigkeit), jede Haftung ausgeschlossen, gleich aus welchem Rechtsgrund. Insbesondere gilt der Ausschluss, sofern nicht Vorsatz oder grobe Fahrlässigkeit (bei Verletzung von Leben, Körper oder der Gesundheit auch Fahrlässigkeit) vorliegt, auch für Datenverluste, entgangener Gewinn, sonstige Vermögensschäden, Mangelfolgeschäden und mittelbare Mangelfolgeschäden. Als Einschränkung dazu, ist im Verkehr zwischen Unternehmern auch bei grobem Verschulden die Haftung auf den typischer Weise bei diesen Geschäften der vorliegenden Art entstehenden Schaden begrenzt. Eine Haftung für die Vernichtung oder Verfälschung aufgezeichneter Daten setzt in jedem Fall voraus, dass der Verbraucher, der Auftraggeber sichergestellt hat, dass die Daten mit vertretbarem Aufwand aus maschinenlesbarem Datenmaterial rekonstruiert werden können.
 
 Das gleiche gilt auch für Erfüllungsgehilfen oder gesetzliche Vertreter von AVENTER.
 
 Ansprüche des Verbraucher, der Auftraggebern auf Schadensersatz verjähren spätestens in einem Jahr ab dem gesetzlichen Verjährungsbeginn. Dies gilt nicht für Schadensersatzansprüche, die aus einer vorsätzlichen Handlung, grob fahrlässigem Verhalten (bei Verletzung von Leben, Körper oder der Gesundheit auch Fahrlässigkeit) oder arglistiger Täuschung gegenüber AVENTER begründet werden.
- 
-## §9 Wartungszeiten 
+
+## §9 Wartungszeiten
 
 Die allgemeinen Wartungsarbeiten erfolgen Freitags in der Zeit von 21:00 Uhr bis Sonntag 01:00 Uhr. In dieser Zeit kann es zu Ausfällen der von AVENTER angebotenen Services kommen.
 
@@ -146,4 +146,4 @@ Der Auftraggeber von AVENTER verpflichtet sich, seine Firma, welche von AVENTER 
 
 Wurde zwischen Verbraucher, der Auftraggeber und AVENTER nichts weiteres vereinbart, kann der Verbraucher, der Auftraggeber sein Produkt zum Monatsende Schriftlich oder über EMail an den Support kündigen. Eine Kündigung wird sofort ohne Karentszeit und ohne Nachfrage durchgeführt. Eine Beitrags Rückerstatung ist nicht möglich.
 
-Stand der AGB, Oktober 2018
+Stand der AGB, Februar 2019

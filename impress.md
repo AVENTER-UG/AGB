@@ -5,9 +5,9 @@ Seitenbetreiber i.S.d. § 5 TMG
 AVENTER UG (haftungsbeschraenkt)  
 Koellner Chaussee 144  
 25337 Koelln-Reisiek  
-Germany 
+Germany
 
-Phone: (+49)4121 - 235582 0 
+Phone: (+49)4121 - 235582 0
 
 E-Mail: support@aventer.biz  
 Internet: www.aventer.biz  
