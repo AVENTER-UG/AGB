@@ -17,7 +17,7 @@ Link zum Impressum: https://www.aventer.biz/#impress
 - Kontaktdaten (E-Mail, Telefonnummern).
 - Inhaltsdaten (Texteingaben, Fotografien, Videos, Dateien).
 
-##  Kategorien betroffener Personen
+## Kategorien betroffener Personen
 
 - Besucher und Nutzer der Onlineangebote (nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als "Nutzer").
 - Kaeufer oder Auftraggeber der Consulting oder unserer Softwareentwicklungs- oder Administrations- Dienstleistungen (nachfolgend "Kunden" genannt).
@@ -95,11 +95,12 @@ Nach gesetzlichen Vorgaben in Österreich erfolgt die Aufbewahrung insbesondere 
 ## Geschäftsbezogene Verarbeitung
 
 Zusätzlich verarbeiten wir
+
 - Vertragsdaten (z.B., Vertragsgegenstand, Laufzeit, Kundenkategorie).
 - Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie, Zahlungsanbieter)
 von unseren Kunden, Interessenten und Geschäftspartner zwecks Erbringung vertraglicher Leistungen und Service
 
- ## Erbringung vertraglicher Leistungen
+## Erbringung vertraglicher Leistungen
 
 Wir verarbeiten Bestandsdaten (z.B., Namen und Adressen sowie Kontaktdaten von Nutzern), Vertragsdaten (z.B., in Anspruch genommene Leistungen, Namen von Kontaktpersonen, Zahlungsinformationen) zwecks Erfüllung unserer vertraglichen Verpflichtungen und Serviceleistungen gem. Art. 6 Abs. 1 lit b. DSGVO. Die in Onlineformularen als verpflichtend gekennzeichneten Eingaben, sind für den Vertragsschluss erforderlich.
 
@@ -119,6 +120,53 @@ Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon oder 
 
 Wir löschen die Anfragen, sofern diese nicht mehr erforderlich sind. Wir überprüfen die Erforderlichkeit alle zwei Jahre; Ferner gelten die gesetzlichen Archivierungspflichten.
 
-## Google Fonts
+## SSL- bzw. TLS-Verschlüsselung
 
-Stand der Bestimmung, Februar 2019
+Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS- Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
+
+## Zahlungsart: Datenschutzbestimmungen zu PayPal als Zahlungsart
+
+Wir nutzen PayPal als Zahlungsdienstleister.
+
+PayPal ist ein Online-Zahlungsdienstleister. Zahlungen werden über sogenannte PayPal-Konten abgewickelt, die virtuelle Privat- oder Geschäftskonten darstellen. Zudem besteht bei PayPal die Möglichkeit, virtuelle Zahlungen über Kreditkarten abzuwickeln, wenn ein Nutzer kein PayPal-Konto unterhält. Ein PayPal-Konto wird über eine E-Mail-Adresse geführt, weshalb es keine klassische Kontonummer gibt. PayPal ermöglicht es, Online-Zahlungen an Dritte auszulösen oder auch Zahlungen zu empfangen. PayPal übernimmt ferner Treuhänderfunktionen und bietet Käuferschutzdienste an.
+
+Die Europäische Betreibergesellschaft von PayPal ist die PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxemburg.
+
+Waehlt der Kunde als Zahlungsmöglichkeit „PayPal“ aus, werden automatisiert Daten der betroffenen Person an PayPal übermittelt. Mit der Auswahl dieser Zahlungsoption willigt der Kunde in die zur Zahlungsabwicklung erforderliche Übermittlung personenbezogener Daten ein.
+
+Bei den an PayPal übermittelten personenbezogenen Daten handelt es sich in der Regel um Vorname, Nachname, Adresse, Email-Adresse, IP-Adresse, Telefonnummer, Mobiltelefonnummer oder andere Daten, die zur Zahlungsabwicklung notwendig sind. Zur Abwicklung des Kaufvertrages notwendig sind auch solche personenbezogenen Daten, die im Zusammenhang mit der jeweiligen Bestellung stehen.
+
+Die Übermittlung der Daten bezweckt die Zahlungsabwicklung und die Betrugsprävention. Der für die Verarbeitung Verantwortliche wird PayPal personenbezogene Daten insbesondere dann übermitteln, wenn ein berechtigtes Interesse für die Übermittlung gegeben ist. Die zwischen PayPal und dem für die Verarbeitung Verantwortlichen ausgetauschten personenbezogenen Daten werden von PayPal unter Umständen an Wirtschaftsauskunfteien übermittelt. Diese Übermittlung bezweckt die Identitäts- und Bonitätsprüfung.
+
+PayPal gibt die personenbezogenen Daten gegebenenfalls an verbundene Unternehmen und Leistungserbringer oder Subunternehmer weiter, soweit dies zur Erfüllung der vertraglichen Verpflichtungen erforderlich ist oder die Daten im Auftrag verarbeitet werden sollen.
+
+Der Kunde hat die Möglichkeit, die Einwilligung zum Umgang mit personenbezogenen Daten jederzeit gegenüber PayPal zu widerrufen. Ein Widerruf wirkt sich nicht auf personenbezogene Daten aus, die zwingend zur (vertragsgemäßen) Zahlungsabwicklung verarbeitet, genutzt oder übermittelt werden müssen. 
+
+Die geltenden Datenschutzbestimmungen von PayPal können unter https://www.paypal.com/de/webapps/mpp/ua/privacy-full abgerufen werden.
+
+## OpenStreetMap
+
+Wir nutzen den Kartendienst von OpenStreetMap (OSM). 
+
+Anbieterin ist die Open-Street-Map Foundation (OSMF), 132 Maney Hill Road, Sutton Coldfield, West Midlands, B72 1JU, United Kingdom.
+
+
+Wenn Sie eine Website besuchen, auf der OpenStreetMap eingebunden ist, werden u. a. Ihre IP-Adresse und weitere Informationen über Ihr Verhalten auf dieser Website an die OSMF weitergeleitet. OpenStreetMap speichert hierzu unter Umständen Cookies in Ihrem Browser. Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser 6 / 8Website vollumfänglich werden nutzen können. Ferner kann Ihr Standort erfasst werden, wenn Sie dies in Ihren Geräteeinstellungen – z. B. auf Ihrem Handy – zugelassen haben. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Details entnehmen Sie der Datenschutzerklärung von OpenStreetMap unter folgendem Link: https://wiki.openstreetmap.org/wiki/Privacy_Policy.
+
+Die Nutzung von OpenStreetMap erfolgt im Interesse einer ansprechenden Darstellung unserer Online- Angebote und einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
+
+## Google reCAPTCHA
+
+Wir nutzen „Google reCAPTCHA“ (im Folgenden „reCAPTCHA“) auf unseren Websites. 
+
+Anbieter ist die Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.
+
+Mit reCAPTCHA soll überprüft werden, ob die Dateneingabe auf unseren Websites (z. B. in einem Kontaktformular, oder in einem Anmeldeformular) durch einen Menschen oder durch ein automatisiertes Programm erfolgt. Hierzu analysiert reCAPTCHA das Verhalten des Websitebesuchers anhand verschiedener Merkmale. Diese Analyse beginnt automatisch, sobald der Websitebesucher die Website betritt. Zur Analyse wertet reCAPTCHA verschiedene Informationen aus (z. B. IP-Adresse, Verweildauer des Websitebesuchers auf der Website oder vom Nutzer getätigte Mausbewegungen). Die bei der Analyse erfassten Daten werden an
+Google weitergeleitet. Die reCAPTCHA-Analysen laufen vollständig im Hintergrund. Websitebesucher werden nicht darauf hingewiesen, dass eine Analyse stattfindet. Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse daran, seine Webangebote vor missbräuchlicher automatisierter Ausspähung und vor SPAM zu schützen.
+
+Weitere Informationen zu Google reCAPTCHA sowie die Datenschutzerklärung von Google entnehmen Sie folgenden Links:
+
+- https://policies.google.com/privacy?hl=de und
+- https://www.google.com/recaptcha/intro/android.html.
+
+Stand der Bestimmung, April 2019
