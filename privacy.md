@@ -28,7 +28,7 @@ Link zum Impressum: https://www.aventer.biz/#impress
 - Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
 - Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
 - Sicherheitsmaßnahmen.
-- Warenzusensung, Rechungstellung.
+- Warenzusensung, Rechnungstellung.
 - Ausfuehren der Dienstleitstung beim Kunden vor Ort oder ueber Remote.
 
 ## Verwendete Begrifflichkeiten
@@ -149,7 +149,6 @@ Die geltenden Datenschutzbestimmungen von PayPal können unter https://www.paypa
 Wir nutzen den Kartendienst von OpenStreetMap (OSM). 
 
 Anbieterin ist die Open-Street-Map Foundation (OSMF), 132 Maney Hill Road, Sutton Coldfield, West Midlands, B72 1JU, United Kingdom.
-
 
 Wenn Sie eine Website besuchen, auf der OpenStreetMap eingebunden ist, werden u. a. Ihre IP-Adresse und weitere Informationen über Ihr Verhalten auf dieser Website an die OSMF weitergeleitet. OpenStreetMap speichert hierzu unter Umständen Cookies in Ihrem Browser. Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser 6 / 8Website vollumfänglich werden nutzen können. Ferner kann Ihr Standort erfasst werden, wenn Sie dies in Ihren Geräteeinstellungen – z. B. auf Ihrem Handy – zugelassen haben. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Details entnehmen Sie der Datenschutzerklärung von OpenStreetMap unter folgendem Link: https://wiki.openstreetmap.org/wiki/Privacy_Policy.
 
