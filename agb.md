@@ -136,7 +136,9 @@ Die Sofware wird verkauft wie sie aktuell ist. Mit der Benutzung der Software be
 
 ## §12 Eigentumsverhältnis
 
-Die von AVENTER für den Verbraucher, der Auftraggebern entwickelte Software, WebEntwicklungen, Dokumente, Darstellungen, Algorythmen, Software Codes, Scripte und das Design von Webseiten, bleibt Eigentum von AVENTER und geht auch nach Kündigung des Vertrages, beendigung des Projektes oder Fertigstellung nicht in den Besitz des Verbraucher, der Auftraggebern über. Dem Verbraucher, dem Auftraggeber werden jedoch lebenslange Nutzungs- und weiterverarbeitungsrechte eingeraeumt.  
+(1) Die von AVENTER für den Verbraucher, der Auftraggebern entwickelte Software, WebEntwicklungen, Dokumente, Darstellungen, Algorythmen, Software Codes, Scripte und das Design von Webseiten, bleibt Eigentum von AVENTER und geht auch nach Kündigung des Vertrages, beendigung des Projektes oder Fertigstellung nicht in den Besitz des Verbraucher, der Auftraggebern über. Dem Verbraucher, dem Auftraggeber werden jedoch lebenslange Nutzungs- und weiterverarbeitungsrechte eingeraeumt.
+
+(2) Ihre Geräte und Daten bleiben jederzeit Ihr Eigentum, und wir haben keine Eigentums-, Nutzungs- und sonstigen Rechte an ihnen (mit Ausnahme des Rechts auf Besitz und Nutzung Ihrer Geräte und Daten zur Erbringung der Dienstleistungen). Wir behalten uns alle Eigentums-, Nutzungs- und sonstigen Rechte an der Bereitstellung der Dienstleistungen vor, einschließlich aller Verbesserungen oder Erweiterungen der Dienstleistungen.
 
 ## §13 Sozial- und Umweltbewusstsein
 
@@ -146,4 +148,12 @@ Der Auftraggeber von AVENTER verpflichtet sich, seine Firma, welche von AVENTER 
 
 Wurde zwischen Verbraucher, der Auftraggeber und AVENTER nichts weiteres vereinbart, kann der Verbraucher, der Auftraggeber sein Produkt zum Monatsende Schriftlich oder über EMail an den Support kündigen. Eine Kündigung wird sofort ohne Karentszeit und ohne Nachfrage durchgeführt. Eine Beitrags Rückerstatung ist nicht möglich.
 
-Stand der AGB, Februar 2019
+## §15 Zusicherung des Kunden
+
+(1) Sie erkennen hiermit an und garantieren uns gegenüber, dass (i) Sie rechtlich in der Lage sind, verbindliche Verträge abzuschließen; (ii) Sie vollständig bevollmächtigt, ermächtigt und befugt sind, diesen AGB zuzustimmen, und wenn Sie ein Geschäftskunde sind, die entsprechende rechtliche Befugnis besitzen, den Vertrag abzuschließen; (iii) alle Informationen, die Sie uns im Zusammenhang mit Ihrer Bestellung zur Verfügung stellen, wahr, genau, vollständig und nicht irreführend sind; 
+
+(1.1) Im Falle der Dienstleisung Datenrettung, erkennen Sie hiermit an und garantieren uns gegenüber, dass (iv) Sie der Eigentümer der Geräte sind bzw. die Erlaubnis des Eigentümers der Geräte haben, dass wir die Dienstleistungen erbringen dürfen; (v) es nicht gegen Verpflichtungen oder Rechte Dritter verstößt, dass Sie Ihre Geräte bzw. Daten an uns aushändigen; (vi) es nicht gegen geltendes Recht verstößt, dass Sie Ihre Geräte bzw. Daten an uns aushändigen; (vii) Sie gesetzlich berechtigt sind, Zugang zu den Daten zu gewähren; (viii) Ihre Geräte kein Material (wie beispielsweise Daten) enthalten, das die geistigen Eigentumsrechte Dritter verletzen könnte; und (ix) Ihre Geräte kein Material enthalten, das geltendes Recht verletzt. Wir behalten uns das Recht vor, dokumentarische Nachweise über Ihr Eigentum oder Ihr gesetzliches Recht, die Dienstleistungen zu autorisieren, anzufordern und die Dienstleistungen auszusetzen oder nicht zu starten, solange diese Nachweise fehlen.
+
+(2) Im Falle der Dienstleitung Datenrettung, erkennen Sie hiermit an, dass Ihre Geräte bzw. Daten bereits beschädigt sein können bevor wir sie erhalten und dass unsere Bemühungen, die Dienstleistungen abzuschließen, zur Zerstörung oder weiteren Beschädigung Ihrer Geräte bzw. Daten führen können. Wir werden bei der Ausführung der Dienstleistungen mit angemessener Sorgfalt vorgehen, tragen aber keine Verantwortung für bestehende oder zusätzliche Schäden, die während der Ausführung der Dienstleistungen an Ihren Geräten bzw. Daten entstehen können, es sei denn, dass Ziffer 12 dieser AGB etwas anderes besagt.
+
+Stand der AGB, Oktober 2020
