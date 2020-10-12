@@ -156,4 +156,10 @@ Wurde zwischen Verbraucher, der Auftraggeber und AVENTER nichts weiteres vereinb
 
 (2) Im Falle der Dienstleitung Datenrettung, erkennen Sie hiermit an, dass Ihre Geräte bzw. Daten bereits beschädigt sein können bevor wir sie erhalten und dass unsere Bemühungen, die Dienstleistungen abzuschließen, zur Zerstörung oder weiteren Beschädigung Ihrer Geräte bzw. Daten führen können. Wir werden bei der Ausführung der Dienstleistungen mit angemessener Sorgfalt vorgehen, tragen aber keine Verantwortung für bestehende oder zusätzliche Schäden, die während der Ausführung der Dienstleistungen an Ihren Geräten bzw. Daten entstehen können, es sei denn, dass Ziffer 12 dieser AGB etwas anderes besagt.
 
+## §16 Schadensersatz
+
+Sie sind verpflichtet, uns in vollem Umfang von allen Ansprüchen, Kosten, Schäden, Haftungen, Ausgaben (einschließlich, aber nicht beschränkt auf Rechtskosten) und Forderungen und Urteilen freizustellen, die gegen uns infolge oder im Zusammenhang mit all Ihren Handlungen, Unterlassungen bzw. Unterlassungen im Zusammenhang mit dem Vertrag und diesen AGB ausgesprochen werden.
+
+
+
 Stand der AGB, Oktober 2020
