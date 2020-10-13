@@ -8,7 +8,7 @@
 
 (2) „Auftraggeber“ im Sinne dieser Geschäftsbedingungen ist jede natürliche Person, die ein Rechtsgeschäft zu einem Zwecke abschließt, der gewerblichen oder ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann.
 
-(4) Die folgenden Regelungen gelten für Beauftragungen über unsere Internet Seite http(s)://www.aventer.biz, http(s)://www.der-online-shop.de, http(s)://www.simplyqa.com oder bei der Annahme eines von AVENTER ausgestellten Angebotes.
+(4) Die folgenden Regelungen gelten für Beauftragungen über unsere Internet Seite http(s)://www.aventer.biz, http(s)://www.flexhosting.biz  oder bei der Annahme eines von AVENTER ausgestellten Angebotes.
 
 ## §2 Zustandekommen eines Vertrages, Speicherung des Vertragstextes
 
@@ -28,7 +28,7 @@ zustande.
 Die Bestellung erfolgt in folgenden Schritten:
  
 1) Auswahl der gewünschten Ware
-2) Eingeben von Verbraucher, der Auftraggeberndaten
+2) Eingeben von Verbraucher, der Auftraggeberndaten, oder dem Login mit schon vorhandenen Daten
 3) Bestätigen durch Anklicken der Buttons „Zahlungspflichtig Bestellen“
 4) Erhalten der Rechnung per EMail
 5) Bezahlen der Rechnung über den externen Dienst "PayPal"
@@ -37,7 +37,9 @@ Der Verbraucher kann vor dem verbindlichen Absenden der Bestellung durch Betäti
 
 (4) Beim Eingang einer individuellen Angebotsanfrage eines Auftraggebers, gelten folgende Regelungen: Der Auftraggeber erfragt ein Angebot, AVENTER stellt ein schriftliches Angebot aus. Nach der schriftlichen Annahme des Angbotes ist diese bindend.
 
-(5) Speicherung des Vertragstextes bei Bestellungen über unsere Internet Seite: Die AGB können Sie jederzeit unter http://www.aventer.biz/ einsehen.
+(5) Beim Eingang einer Beauftragung für Remote Support (https://www.aventer.biz/services/remote/) oder Datenrettung (https://www.aventer.biz/services/datenrettung/), gelten folgende Regelungen: Der Auftraggeber bekommt am ende der Dienstleitung eine Rechnung in der höhe der geleisteten Stunden. Die Abrechnung erfolgt im Minutentakt. Übersteigt die Leistung eine Stunde, hällt AVENTER Rücksprache mit dem Augtraggeber oder dem Verbraucher. Der Auftraggeber, oder der Verbraucher, hat das Recht die Mehrarbeit zu verneinen. Die Arbeit seitens AVENTER wird daraufhin eingestellt.
+
+(6) Speicherung des Vertragstextes bei Bestellungen über unsere Internet Seite: Die AGB können Sie jederzeit unter http://www.aventer.biz/ einsehen.
 
 ## §3 Preise, Versandkosten, Zahlung, Fälligkeit
 
