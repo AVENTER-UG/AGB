@@ -21,25 +21,13 @@ D-25337 Kölln-Reisiek
 
 zustande.
 
-(2) Die Präsentation der Produkte auf unseren Webseiten stellen kein rechtlich bindendes Vertragsangebot unsererseits dar, sondern sind nur eine unverbindliche Aufforderungen an den Verbraucher oder Auftraggeber, Waren zu bestellen. Mit der Bestellung der gewünschten Produkte gibt der Verbraucher oder Auftraggeber ein für ihn verbindliches Angebot auf Abschluss eines Kaufvertrages ab.
+(2) Beim Eingang einer individuellen Angebotsanfrage eines Auftraggebers, gelten folgende Regelungen: Der Auftraggeber erfragt ein Angebot, AVENTER stellt ein schriftliches Angebot aus. Nach der schriftlichen Annahme des Angbotes ist diese bindend.
 
-(3) Bei Eingang einer Bestellung in unserem Internetshop, gelten folgende Regelungen: Der Verbraucher gibt ein bindendes Vertragsangebot ab, indem er die in unserem Internetshop vorgesehene Bestellprozedur erfolgreich durchläuft.
+(3) Beim Eingang einer Beauftragung für Remote Support (https://www.aventer.biz/services/remote/) oder Datenrettung (https://www.aventer.biz/services/datenrettung/), gelten folgende Regelungen: Der Auftraggeber bekommt am ende der Dienstleitung eine Rechnung in der Höhe der geleisteten Stunden. Die Abrechnung erfolgt im Minutentakt. Übersteigt die Leistung eine Stunde, hällt AVENTER Rücksprache mit dem Augtraggeber oder dem Verbraucher. Der Auftraggeber, oder der Verbraucher, hat das Recht die Mehrarbeit zu verneinen. Die Arbeit seitens AVENTER wird daraufhin eingestellt.
 
-Die Bestellung erfolgt in folgenden Schritten:
- 
-1) Auswahl der gewünschten Ware
-2) Eingeben von Verbraucher, der Auftraggeberndaten, oder dem Login mit schon vorhandenen Daten
-3) Bestätigen durch Anklicken der Buttons „Zahlungspflichtig Bestellen“
-4) Erhalten der Rechnung per EMail
-5) Bezahlen der Rechnung über den externen Dienst "PayPal"
+(4) Beim Eingang einer Beauftragung für LoRa (https://www.lora.sh/) gelten folgende Regelungen: Der Auftraggeber bekommt Monatlich eine Rechnung in der Höhe der vereinbarten Preise. 
 
-Der Verbraucher kann vor dem verbindlichen Absenden der Bestellung durch Betätigen der in dem von ihm verwendeten Internet-Browser enthaltenen „Zurück“-Taste nach Kontrolle seiner Angaben wieder zu der Internetseite gelangen, auf der die Angaben des Verbraucher, der Auftraggebern erfasst werden und Eingabefehler berichtigen bzw. durch Schließen des Internetbrowsers den Bestellvorgang abbrechen. Wir bestätigen den Eingang der Bestellung unmittelbar durch eine automatisch generierte E-Mail („Auftragsbestätigung“). Mit dieser nehmen wir Ihr Angebot an. 
-
-(4) Beim Eingang einer individuellen Angebotsanfrage eines Auftraggebers, gelten folgende Regelungen: Der Auftraggeber erfragt ein Angebot, AVENTER stellt ein schriftliches Angebot aus. Nach der schriftlichen Annahme des Angbotes ist diese bindend.
-
-(5) Beim Eingang einer Beauftragung für Remote Support (https://www.aventer.biz/services/remote/) oder Datenrettung (https://www.aventer.biz/services/datenrettung/), gelten folgende Regelungen: Der Auftraggeber bekommt am ende der Dienstleitung eine Rechnung in der höhe der geleisteten Stunden. Die Abrechnung erfolgt im Minutentakt. Übersteigt die Leistung eine Stunde, hällt AVENTER Rücksprache mit dem Augtraggeber oder dem Verbraucher. Der Auftraggeber, oder der Verbraucher, hat das Recht die Mehrarbeit zu verneinen. Die Arbeit seitens AVENTER wird daraufhin eingestellt.
-
-(6) Speicherung des Vertragstextes bei Bestellungen über unsere Internet Seite: Die AGB können Sie jederzeit unter http://www.aventer.biz/ einsehen.
+(5) Speicherung des Vertragstextes bei Bestellungen über unsere Internet Seite: Die AGB können Sie jederzeit unter http://www.aventer.biz/ einsehen.
 
 ## §3 Preise, Versandkosten, Zahlung, Fälligkeit
 
@@ -78,7 +66,7 @@ Als Vertragssprache steht ausschließlich Deutsch zur Verfügung.
 
 ## §6 Pflichten und Obliegenheiten des Verbraucher, der Auftraggebern
 
-Der Verbraucher, der Auftraggeber ist für den Inhalt seiner Internet-Seiten selbst verantwortlich. Er ist zur sachgerechten Nutzung der von AVENTER erbrachten Leistungen verpflichtet. Darunter fällt auch die Einhaltung der jeweils geltenden telekommunikationsrechtlichen Vorschriften und die Beachtung der im Internet bzw. der in den jeweiligen Diensten des Internet bestehenden Verhaltensregeln. Der Verbraucher, der Auftraggeber verpflichtet sich insbesondere: 
+Der Verbraucher, der Auftraggeber ist für den Inhalt seiner Internet-Seiten, oder der versendeten Daten (Matrix Messenger-, Mastodon, EMail Nachrichten), selbst verantwortlich. Er ist zur sachgerechten Nutzung der von AVENTER erbrachten Leistungen verpflichtet. Darunter fällt auch die Einhaltung der jeweils geltenden telekommunikationsrechtlichen Vorschriften und die Beachtung der im Internet bzw. der in den jeweiligen Diensten des Internet bestehenden Verhaltensregeln. Der Verbraucher, der Auftraggeber verpflichtet sich insbesondere: 
 
 (1)  Die von AVENTER zur Verfügung gestellten Leistungen nicht dazu zu nutzen, gegen geltendes Recht der Bundesrepublik Deutschland oder international anerkannte Regeln des Völkerrechts (z.B. Volksverhetzung, Diskriminierung aufgrund Hautfarbe, Rasse, Geschlecht, Religion, Herkunft oder Weltanschauung) zu verstoßen bzw. zu einem solchen Verstoß aufzufordern.
 
@@ -164,4 +152,4 @@ Sie sind verpflichtet, uns in vollem Umfang von allen Ansprüchen, Kosten, Schä
 
 
 
-Stand der AGB, Oktober 2020
+Stand der AGB, Dezember 2020
