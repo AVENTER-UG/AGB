@@ -23,7 +23,7 @@ zustande.
 
 (2) Beim Eingang einer individuellen Angebotsanfrage eines Auftraggebers, gelten folgende Regelungen: Der Auftraggeber erfragt ein Angebot, AVENTER stellt ein schriftliches Angebot aus. Nach der schriftlichen Annahme des Angbotes ist diese bindend.
 
-(3) Beim Eingang einer Beauftragung für Remote Support (https://www.aventer.biz/services/remote/) oder Datenrettung (https://www.aventer.biz/services/datenrettung/), gelten folgende Regelungen: Der Auftraggeber bekommt am ende der Dienstleitung eine Rechnung in der Höhe der geleisteten Stunden. Die Abrechnung erfolgt im Minutentakt. Übersteigt die Leistung eine Stunde, hällt AVENTER Rücksprache mit dem Augtraggeber oder dem Verbraucher. Der Auftraggeber, oder der Verbraucher, hat das Recht die Mehrarbeit zu verneinen. Die Arbeit seitens AVENTER wird daraufhin eingestellt.
+(3) Beim Eingang einer Beauftragung für Remote Support oder Datenrettung, gelten folgende Regelungen: Der Auftraggeber bekommt am ende der Dienstleitung eine Rechnung in der Höhe der geleisteten Stunden. Die Abrechnung erfolgt im Minutentakt. Übersteigt die Leistung eine Stunde, hällt AVENTER Rücksprache mit dem Augtraggeber oder dem Verbraucher. Der Auftraggeber, oder der Verbraucher, hat das Recht die Mehrarbeit zu verneinen. Die Arbeit seitens AVENTER wird daraufhin eingestellt.
 
 (4) Beim Eingang einer Beauftragung für LoRa (https://www.lora.sh/) gelten folgende Regelungen: Der Auftraggeber bekommt Monatlich eine Rechnung in der Höhe der vereinbarten Preise. 
 
@@ -152,4 +152,4 @@ Sie sind verpflichtet, uns in vollem Umfang von allen Ansprüchen, Kosten, Schä
 
 
 
-Stand der AGB, Dezember 2020
+Stand der AGB, Juli 2021
