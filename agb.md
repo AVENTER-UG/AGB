@@ -29,6 +29,8 @@ zustande.
 
 (5) Speicherung des Vertragstextes bei Bestellungen über unsere Internet Seite: Die AGB können Sie jederzeit unter http://www.aventer.biz/ einsehen.
 
+(6) Beim Erstellen eines Useraccounts unter https://mastodon.aventer.biz oder https://travel-friends.chat oder https://matrix.aventer.biz gelten folgende Regelungen. Der Vertrag kommt direkt nach dem automatischen erstellen des Useraccounts zustande. 
+
 ## §3 Preise, Versandkosten, Zahlung, Fälligkeit
 
 (1) Die angegebenen Preise enthalten die gesetzliche Umsatzsteuer und sonstige Preisbestandteile.
@@ -70,7 +72,7 @@ Der Verbraucher, der Auftraggeber ist für den Inhalt seiner Internet-Seiten, od
 
 (1)  Die von AVENTER zur Verfügung gestellten Leistungen nicht dazu zu nutzen, gegen geltendes Recht der Bundesrepublik Deutschland oder international anerkannte Regeln des Völkerrechts (z.B. Volksverhetzung, Diskriminierung aufgrund Hautfarbe, Rasse, Geschlecht, Religion, Herkunft oder Weltanschauung) zu verstoßen bzw. zu einem solchen Verstoß aufzufordern.
 
-(2)  Keine pornographischen Inhalte und keine auf Gewinnerzielung gerichteten Leistungen anzubieten oder anbieten zu lassen, die pornographische und/oder erotische Inhalte (z.B. Nacktbilder, Peepshows etc.) zum Gegenstand haben. Der Verbraucher, der Auftraggeber darf seine Internetpräsenz nicht in Suchmaschinen eintragen, soweit durch die Verwendung von Schlüsselwörtern bei der Eintragung gegen gesetzliche Verbote, die guten Sitten und/oder gegen Rechte Dritter verstoßen wird. Für jeden Fall der Zuwiderhandlung gegen vorstehende Verpflichtung verspricht der Verbraucher, der Auftraggeber unter Ausschluss der Annahme eines Fortsetzungszusammenhangs die Zahlung einer Vertragsstrafe i. H. v.  5.100Eruro­ (in Worten: fünftausendeinhundert Euro).
+(2)  Keine pornographischen Inhalte und keine auf Gewinnerzielung gerichteten Leistungen anzubieten oder anbieten zu lassen, die pornographische und/oder erotische Inhalte (z.B. Nacktbilder, Peepshows etc.) zum Gegenstand haben. Der Verbraucher, der Auftraggeber darf seine Internetpräsenz nicht in Suchmaschinen eintragen, soweit durch die Verwendung von Schlüsselwörtern bei der Eintragung gegen gesetzliche Verbote, die guten Sitten und/oder gegen Rechte Dritter verstoßen wird. Für jeden Fall der Zuwiderhandlung gegen vorstehende Verpflichtung verspricht der Verbraucher, der Auftraggeber unter Ausschluss der Annahme eines Fortsetzungszusammenhangs die Zahlung einer Vertragsstrafe i. H. v.  5.100Euro­ (in Worten: fünftausendeinhundert Euro).
 
 (3)  Ohne ausdrückliches Einverständnis des jeweiligen Empfängers keine E-Mails, die Werbung enthalten, zu versenden. Das gilt insbesondere dann, wenn die betreffenden E-Mails mit jeweils gleichem Inhalt massenhaft verbreitet werden (sog. "\Spamming").
 
@@ -152,4 +154,4 @@ Sie sind verpflichtet, uns in vollem Umfang von allen Ansprüchen, Kosten, Schä
 
 
 
-Stand der AGB, Juli 2021
+Stand der AGB, Juli 2024
